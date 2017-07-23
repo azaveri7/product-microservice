@@ -3,6 +3,8 @@
 This is spring boot application and can be accessed using below url
 http://localhost:8080/swagger-ui.html
 
+MicroserviceApplication.java is the class that needs to be run to start this microservice.
+
 Get request to get all products:
 http://localhost:8080/products
 
